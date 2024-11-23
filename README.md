@@ -1,5 +1,8 @@
 # Welcome to Kalango Game Studio! 🦎🎮
 
+## Objective
+We came together to create games much like a band creates music. But instead of musical instruments, we use **open source** to craft **free games**. This approach allows us to refine our skills and expand our knowledge while building what we call our "shelf"—a growing collection of projects, prototypes, assets, ideas, and more. This "shelf" is not just for us but for the community we aspire to cultivate and support.
+
 ## About Us  
 We are **Kalango Game Studio**, a collaborative and independent game development team.  
 Using the **Godot engine** and free software, we create fun, engaging, and accessible games for everyone.  
@@ -10,14 +13,12 @@ Meet the awesome minds behind Kalango Game Studio:
 - **Mentsan**: Project Manager, Game Designer, and Graphic Artist  
 - **Magus**: Writer, Game Designer, and Programmer  
 - **Vinni**: Programmer, Game Designer, and Sound Artist  
+- **notNilton**: Programmer and Game Designer  
 
 ---
 
 ## Connect With Us  
-📫 **How to reach us**: [Email](mailto:contact@kalangogamestudio.com)  
-🌐 **Website**: [kalangogamestudio.com](#)  
-😄 **Pronouns**: We’re all about inclusivity—let us know your preferences!  
-⚡ **Fun Fact**: Our name, "Kalango," is inspired by the creativity and adaptability of nature.
+📫 **How to reach us**: [Email](mailto:kalango.gamestudio@gmail.com)  
 
 ---
 
