@@ -10,10 +10,10 @@ Our mission is to **learn, share, and build**—not just games, but a community.
 
 ## Our Team  
 Meet the awesome minds behind Kalango Game Studio:  
-- **Mentsan**: Project Manager, Game Designer, and Graphic Artist  
-- **Magus**: Writer, Game Designer, and Programmer  
-- **Vinni**: Programmer, Game Designer, and Sound Artist  
-- **notNilton**: Programmer and Game Designer  
+- [**Mentsan**](https://github.com/mentsan): Project Manager, Game Designer, and Graphic Artist  
+- [**Magus**](https://github.com/magus): Writer, Game Designer, and Programmer  
+- [**Vinni**](https://github.com/vinni): Programmer, Game Designer, and Sound Artist  
+- [**notNilton**](https://github.com/notNilton): Programmer and Game Designer  
 
 ---
 
